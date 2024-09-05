@@ -59,9 +59,6 @@ The dataset used for this project is the Chest X-Ray Images (Pneumonia) from Kag
 ## Conclusion
 The Inception architecture achieved the highest accuracy across training, validation, and test datasets. This indicates that the Inception model is more effective for classifying pneumonia from chest X-rays compared to VGG16 and VGG19 architectures.
 
-## Additional Information
-For detailed implementation steps, analysis, and code, refer to the project report.
-
 ## References
 - **Dataset:** Kaggle Chest X-Ray Images (Pneumonia)
 - **Institution:** Alexandria University CCE: Pattern Recognition, Faculty of Engineering
